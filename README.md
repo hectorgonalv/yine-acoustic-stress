@@ -24,13 +24,36 @@ Using a corpus of ~15 hours of read speech, this pipeline automates the extracti
 The pipeline is modularized into discrete stages, separating data engineering from statistical inference.
 
 ```mermaid
-graph LR
-    A[Scraper] -->|Raw Text| B(G2P & Dictionary)
-    C[Audio Files] -->|Diarization| D(TextGrids)
-    B --> E[Acoustic Extraction]
-    D --> E
-    E -->|Raw Metrics| F[Data Cleaning & Prep]
-    F -->|Z-Scored CSV| G[Bayesian & RF Modeling]
+graph TD
+    %% Define Nodes and Shapes
+    A[Raw Audio Files] -->|Manual Crop| B(Cleaned Audio)
+    
+    C[Web Scraper] -->|Downloads| D[Raw Text Files]
+    D -->|Pynini G2P| E(Pronunciation Dictionary)
+    
+    %% The MFA Process
+    B --> MFA{Montreal Forced Aligner}
+    D --> MFA
+    E --> MFA
+    MFA -->|Phonetic Timings| F(MFA TextGrids)
+    
+    %% The Diarization Process
+    B --> DIA{Pyannote Diarization}
+    DIA -->|Speaker Labels| G(Speaker TextGrids)
+    
+    %% The Acoustic Extraction Process
+    B --> EXT{Praat Acoustic Extraction}
+    D --> EXT
+    F --> EXT
+    G --> EXT
+    
+    %% Downstream Statistical Pipeline
+    EXT -->|Syllable-Level Metrics| H[Data Cleaning & Annotation]
+    H -->|Z-Scored CSV| I[Bayesian & RF Modeling]
+
+    %% Styling to make processes stand out
+    classDef process fill:#f9f,stroke:#333,stroke-width:2px;
+    class MFA,DIA,EXT process;
 ```
 
 ## 📂 Repository Structure
