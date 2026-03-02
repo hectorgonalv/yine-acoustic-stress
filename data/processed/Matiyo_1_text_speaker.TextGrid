@@ -1,0 +1,1010 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 287.68
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "speaker"
+		xmin = 0
+		xmax = 287.68
+		intervals: size = 249
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.5195246179966044
+				text = "silence"
+			intervals [2]:
+				xmin = 1.5195246179966044
+				xmax = 4.490662139219015
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [3]:
+				xmin = 4.490662139219015
+				xmax = 5.3056027164685915
+				text = "silence"
+			intervals [4]:
+				xmin = 5.3056027164685915
+				xmax = 6.816638370118845
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [5]:
+				xmin = 6.816638370118845
+				xmax = 7.190152801358234
+				text = "silence"
+			intervals [6]:
+				xmin = 7.190152801358234
+				xmax = 7.580645161290322
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [7]:
+				xmin = 7.580645161290322
+				xmax = 7.750424448217318
+				text = "silence"
+			intervals [8]:
+				xmin = 7.750424448217318
+				xmax = 9.244482173174873
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [9]:
+				xmin = 9.244482173174873
+				xmax = 10.05942275042445
+				text = "silence"
+			intervals [10]:
+				xmin = 10.05942275042445
+				xmax = 12.079796264855688
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [11]:
+				xmin = 12.079796264855688
+				xmax = 12.640067911714771
+				text = "silence"
+			intervals [12]:
+				xmin = 12.640067911714771
+				xmax = 14.643463497453311
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [13]:
+				xmin = 14.643463497453311
+				xmax = 15.37351443123939
+				text = "silence"
+			intervals [14]:
+				xmin = 15.37351443123939
+				xmax = 18.616298811544993
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [15]:
+				xmin = 18.616298811544993
+				xmax = 19.56706281833616
+				text = "silence"
+			intervals [16]:
+				xmin = 19.56706281833616
+				xmax = 21.7911714770798
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [17]:
+				xmin = 21.7911714770798
+				xmax = 22.38539898132428
+				text = "silence"
+			intervals [18]:
+				xmin = 22.38539898132428
+				xmax = 23.94736842105263
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [19]:
+				xmin = 23.94736842105263
+				xmax = 24.847198641765708
+				text = "silence"
+			intervals [20]:
+				xmin = 24.847198641765708
+				xmax = 26.154499151103565
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [21]:
+				xmin = 26.154499151103565
+				xmax = 26.867572156196943
+				text = "silence"
+			intervals [22]:
+				xmin = 26.867572156196943
+				xmax = 27.61460101867572
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [23]:
+				xmin = 27.61460101867572
+				xmax = 28.00509337860781
+				text = "silence"
+			intervals [24]:
+				xmin = 28.00509337860781
+				xmax = 29.533106960950768
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [25]:
+				xmin = 29.533106960950768
+				xmax = 29.787775891341255
+				text = "silence"
+			intervals [26]:
+				xmin = 29.787775891341255
+				xmax = 30.297113752122243
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [27]:
+				xmin = 30.297113752122243
+				xmax = 31.04414261460102
+				text = "silence"
+			intervals [28]:
+				xmin = 31.04414261460102
+				xmax = 32.47028862478778
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [29]:
+				xmin = 32.47028862478778
+				xmax = 32.911714770797964
+				text = "silence"
+			intervals [30]:
+				xmin = 32.911714770797964
+				xmax = 33.76061120543294
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [31]:
+				xmin = 33.76061120543294
+				xmax = 34.45670628183362
+				text = "silence"
+			intervals [32]:
+				xmin = 34.45670628183362
+				xmax = 35.98471986417657
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [33]:
+				xmin = 35.98471986417657
+				xmax = 36.56196943972835
+				text = "silence"
+			intervals [34]:
+				xmin = 36.56196943972835
+				xmax = 37.39388794567063
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [35]:
+				xmin = 37.39388794567063
+				xmax = 37.73344651952462
+				text = "silence"
+			intervals [36]:
+				xmin = 37.73344651952462
+				xmax = 40.059422750424446
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [37]:
+				xmin = 40.059422750424446
+				xmax = 40.840407470288625
+				text = "silence"
+			intervals [38]:
+				xmin = 40.840407470288625
+				xmax = 43.94736842105263
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [39]:
+				xmin = 43.94736842105263
+				xmax = 44.40577249575552
+				text = "silence"
+			intervals [40]:
+				xmin = 44.40577249575552
+				xmax = 45.59422750424448
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [41]:
+				xmin = 45.59422750424448
+				xmax = 45.950764006791175
+				text = "silence"
+			intervals [42]:
+				xmin = 45.950764006791175
+				xmax = 47.444821731748725
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [43]:
+				xmin = 47.444821731748725
+				xmax = 48.07300509337861
+				text = "silence"
+			intervals [44]:
+				xmin = 48.07300509337861
+				xmax = 49.80475382003396
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [45]:
+				xmin = 49.80475382003396
+				xmax = 50.602716468590835
+				text = "silence"
+			intervals [46]:
+				xmin = 50.602716468590835
+				xmax = 52.02886247877759
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [47]:
+				xmin = 52.02886247877759
+				xmax = 52.521222410865875
+				text = "silence"
+			intervals [48]:
+				xmin = 52.521222410865875
+				xmax = 53.72665534804754
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [49]:
+				xmin = 53.72665534804754
+				xmax = 53.811544991511035
+				text = "silence"
+			intervals [50]:
+				xmin = 53.811544991511035
+				xmax = 54.9830220713073
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [51]:
+				xmin = 54.9830220713073
+				xmax = 55.288624787775895
+				text = "silence"
+			intervals [52]:
+				xmin = 55.288624787775895
+				xmax = 59.00679117147708
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [53]:
+				xmin = 59.00679117147708
+				xmax = 59.787775891341255
+				text = "silence"
+			intervals [54]:
+				xmin = 59.787775891341255
+				xmax = 61.468590831918505
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [55]:
+				xmin = 61.468590831918505
+				xmax = 61.926994906621395
+				text = "silence"
+			intervals [56]:
+				xmin = 61.926994906621395
+				xmax = 62.64006791171477
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [57]:
+				xmin = 62.64006791171477
+				xmax = 63.03056027164686
+				text = "silence"
+			intervals [58]:
+				xmin = 63.03056027164686
+				xmax = 64.49066213921901
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [59]:
+				xmin = 64.49066213921901
+				xmax = 64.89813242784379
+				text = "silence"
+			intervals [60]:
+				xmin = 64.89813242784379
+				xmax = 65.4414261460102
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [61]:
+				xmin = 65.4414261460102
+				xmax = 66.08658743633276
+				text = "silence"
+			intervals [62]:
+				xmin = 66.08658743633276
+				xmax = 68.106960950764
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [63]:
+				xmin = 68.106960950764
+				xmax = 68.85398981324278
+				text = "silence"
+			intervals [64]:
+				xmin = 68.85398981324278
+				xmax = 71.09507640067912
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [65]:
+				xmin = 71.09507640067912
+				xmax = 71.553480475382
+				text = "silence"
+			intervals [66]:
+				xmin = 71.553480475382
+				xmax = 73.69269949066214
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [67]:
+				xmin = 73.69269949066214
+				xmax = 74.42275042444822
+				text = "silence"
+			intervals [68]:
+				xmin = 74.42275042444822
+				xmax = 75.71307300509338
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [69]:
+				xmin = 75.71307300509338
+				xmax = 76.08658743633276
+				text = "silence"
+			intervals [70]:
+				xmin = 76.08658743633276
+				xmax = 76.78268251273346
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [71]:
+				xmin = 76.78268251273346
+				xmax = 77.64855687606112
+				text = "silence"
+			intervals [72]:
+				xmin = 77.64855687606112
+				xmax = 79.19354838709677
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [73]:
+				xmin = 79.19354838709677
+				xmax = 79.29541595925298
+				text = "silence"
+			intervals [74]:
+				xmin = 79.29541595925298
+				xmax = 80.04244482173175
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [75]:
+				xmin = 80.04244482173175
+				xmax = 80.72156196943973
+				text = "silence"
+			intervals [76]:
+				xmin = 80.72156196943973
+				xmax = 82.14770797962649
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [77]:
+				xmin = 82.14770797962649
+				xmax = 82.40237691001698
+				text = "silence"
+			intervals [78]:
+				xmin = 82.40237691001698
+				xmax = 82.97962648556876
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [79]:
+				xmin = 82.97962648556876
+				xmax = 83.69269949066214
+				text = "silence"
+			intervals [80]:
+				xmin = 83.69269949066214
+				xmax = 85.0
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [81]:
+				xmin = 85.0
+				xmax = 85.3904923599321
+				text = "silence"
+			intervals [82]:
+				xmin = 85.3904923599321
+				xmax = 86.12054329371816
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [83]:
+				xmin = 86.12054329371816
+				xmax = 86.78268251273346
+				text = "silence"
+			intervals [84]:
+				xmin = 86.78268251273346
+				xmax = 88.5314091680815
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [85]:
+				xmin = 88.5314091680815
+				xmax = 88.8030560271647
+				text = "silence"
+			intervals [86]:
+				xmin = 88.8030560271647
+				xmax = 89.70288624787776
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [87]:
+				xmin = 89.70288624787776
+				xmax = 90.38200339558574
+				text = "silence"
+			intervals [88]:
+				xmin = 90.38200339558574
+				xmax = 92.01188455008489
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [89]:
+				xmin = 92.01188455008489
+				xmax = 92.43633276740238
+				text = "silence"
+			intervals [90]:
+				xmin = 92.43633276740238
+				xmax = 93.11544991511036
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [91]:
+				xmin = 93.11544991511036
+				xmax = 93.48896434634975
+				text = "silence"
+			intervals [92]:
+				xmin = 93.48896434634975
+				xmax = 94.89813242784379
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [93]:
+				xmin = 94.89813242784379
+				xmax = 95.3565365025467
+				text = "silence"
+			intervals [94]:
+				xmin = 95.3565365025467
+				xmax = 96.29032258064515
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [95]:
+				xmin = 96.29032258064515
+				xmax = 97.10526315789474
+				text = "silence"
+			intervals [96]:
+				xmin = 97.10526315789474
+				xmax = 98.12393887945672
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [97]:
+				xmin = 98.12393887945672
+				xmax = 98.446519524618
+				text = "silence"
+			intervals [98]:
+				xmin = 98.446519524618
+				xmax = 99.44821731748726
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [99]:
+				xmin = 99.44821731748726
+				xmax = 99.63497453310697
+				text = "silence"
+			intervals [100]:
+				xmin = 99.63497453310697
+				xmax = 100.80645161290323
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [101]:
+				xmin = 100.80645161290323
+				xmax = 101.06112054329373
+				text = "silence"
+			intervals [102]:
+				xmin = 101.06112054329373
+				xmax = 101.893039049236
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [103]:
+				xmin = 101.893039049236
+				xmax = 102.57215619694398
+				text = "silence"
+			intervals [104]:
+				xmin = 102.57215619694398
+				xmax = 104.06621392190152
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [105]:
+				xmin = 104.06621392190152
+				xmax = 104.66044142614601
+				text = "silence"
+			intervals [106]:
+				xmin = 104.66044142614601
+				xmax = 106.66383701188454
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [107]:
+				xmin = 106.66383701188454
+				xmax = 107.56366723259762
+				text = "silence"
+			intervals [108]:
+				xmin = 107.56366723259762
+				xmax = 109.38030560271648
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [109]:
+				xmin = 109.38030560271648
+				xmax = 109.85568760611207
+				text = "silence"
+			intervals [110]:
+				xmin = 109.85568760611207
+				xmax = 111.82512733446521
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [111]:
+				xmin = 111.82512733446521
+				xmax = 112.72495755517826
+				text = "silence"
+			intervals [112]:
+				xmin = 112.72495755517826
+				xmax = 115.50933786078099
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [113]:
+				xmin = 115.50933786078099
+				xmax = 116.25636672325976
+				text = "silence"
+			intervals [114]:
+				xmin = 116.25636672325976
+				xmax = 117.93718166383701
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [115]:
+				xmin = 117.93718166383701
+				xmax = 118.3616298811545
+				text = "silence"
+			intervals [116]:
+				xmin = 118.3616298811545
+				xmax = 119.41426146010187
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [117]:
+				xmin = 119.41426146010187
+				xmax = 120.17826825127335
+				text = "silence"
+			intervals [118]:
+				xmin = 120.17826825127335
+				xmax = 122.1137521222411
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [119]:
+				xmin = 122.1137521222411
+				xmax = 122.47028862478777
+				text = "silence"
+			intervals [120]:
+				xmin = 122.47028862478777
+				xmax = 123.16638370118847
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [121]:
+				xmin = 123.16638370118847
+				xmax = 123.93039049235995
+				text = "silence"
+			intervals [122]:
+				xmin = 123.93039049235995
+				xmax = 125.50933786078099
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [123]:
+				xmin = 125.50933786078099
+				xmax = 125.76400679117148
+				text = "silence"
+			intervals [124]:
+				xmin = 125.76400679117148
+				xmax = 126.64685908319186
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [125]:
+				xmin = 126.64685908319186
+				xmax = 127.46179966044144
+				text = "silence"
+			intervals [126]:
+				xmin = 127.46179966044144
+				xmax = 129.0067911714771
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [127]:
+				xmin = 129.0067911714771
+				xmax = 129.41426146010187
+				text = "silence"
+			intervals [128]:
+				xmin = 129.41426146010187
+				xmax = 130.05942275042446
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [129]:
+				xmin = 130.05942275042446
+				xmax = 130.87436332767405
+				text = "silence"
+			intervals [130]:
+				xmin = 130.87436332767405
+				xmax = 132.3853989813243
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [131]:
+				xmin = 132.3853989813243
+				xmax = 132.79286926994908
+				text = "silence"
+			intervals [132]:
+				xmin = 132.79286926994908
+				xmax = 133.65874363327674
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [133]:
+				xmin = 133.65874363327674
+				xmax = 134.38879456706283
+				text = "silence"
+			intervals [134]:
+				xmin = 134.38879456706283
+				xmax = 136.83361629881156
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [135]:
+				xmin = 136.83361629881156
+				xmax = 137.51273344651955
+				text = "silence"
+			intervals [136]:
+				xmin = 137.51273344651955
+				xmax = 138.98981324278438
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [137]:
+				xmin = 138.98981324278438
+				xmax = 139.32937181663837
+				text = "silence"
+			intervals [138]:
+				xmin = 139.32937181663837
+				xmax = 140.02546689303907
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [139]:
+				xmin = 140.02546689303907
+				xmax = 140.80645161290323
+				text = "silence"
+			intervals [140]:
+				xmin = 140.80645161290323
+				xmax = 142.3684210526316
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [141]:
+				xmin = 142.3684210526316
+				xmax = 142.74193548387098
+				text = "silence"
+			intervals [142]:
+				xmin = 142.74193548387098
+				xmax = 143.62478777589135
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [143]:
+				xmin = 143.62478777589135
+				xmax = 144.38879456706283
+				text = "silence"
+			intervals [144]:
+				xmin = 144.38879456706283
+				xmax = 146.01867572156198
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [145]:
+				xmin = 146.01867572156198
+				xmax = 146.42614601018676
+				text = "silence"
+			intervals [146]:
+				xmin = 146.42614601018676
+				xmax = 147.17317487266556
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [147]:
+				xmin = 147.17317487266556
+				xmax = 147.49575551782684
+				text = "silence"
+			intervals [148]:
+				xmin = 147.49575551782684
+				xmax = 149.65195246179968
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [149]:
+				xmin = 149.65195246179968
+				xmax = 150.41595925297113
+				text = "silence"
+			intervals [150]:
+				xmin = 150.41595925297113
+				xmax = 152.57215619694398
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [151]:
+				xmin = 152.57215619694398
+				xmax = 153.31918505942275
+				text = "silence"
+			intervals [152]:
+				xmin = 153.31918505942275
+				xmax = 154.33786078098473
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [153]:
+				xmin = 154.33786078098473
+				xmax = 154.94906621392192
+				text = "silence"
+			intervals [154]:
+				xmin = 154.94906621392192
+				xmax = 156.52801358234296
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [155]:
+				xmin = 156.52801358234296
+				xmax = 156.88455008488967
+				text = "silence"
+			intervals [156]:
+				xmin = 156.88455008488967
+				xmax = 158.3616298811545
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [157]:
+				xmin = 158.3616298811545
+				xmax = 159.48217317487268
+				text = "silence"
+			intervals [158]:
+				xmin = 159.48217317487268
+				xmax = 161.6044142614601
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [159]:
+				xmin = 161.6044142614601
+				xmax = 162.2156196943973
+				text = "silence"
+			intervals [160]:
+				xmin = 162.2156196943973
+				xmax = 162.84380305602718
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [161]:
+				xmin = 162.84380305602718
+				xmax = 163.60780984719867
+				text = "silence"
+			intervals [162]:
+				xmin = 163.60780984719867
+				xmax = 167.00339558573856
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [163]:
+				xmin = 167.00339558573856
+				xmax = 167.75042444821733
+				text = "silence"
+			intervals [164]:
+				xmin = 167.75042444821733
+				xmax = 169.88964346349746
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [165]:
+				xmin = 169.88964346349746
+				xmax = 171.04414261460104
+				text = "silence"
+			intervals [166]:
+				xmin = 171.04414261460104
+				xmax = 172.35144312393888
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [167]:
+				xmin = 172.35144312393888
+				xmax = 172.3684210526316
+				text = "silence"
+			intervals [168]:
+				xmin = 172.3684210526316
+				xmax = 173.76061120543295
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [169]:
+				xmin = 173.76061120543295
+				xmax = 174.15110356536505
+				text = "silence"
+			intervals [170]:
+				xmin = 174.15110356536505
+				xmax = 176.40916808149407
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [171]:
+				xmin = 176.40916808149407
+				xmax = 176.66383701188457
+				text = "silence"
+			intervals [172]:
+				xmin = 176.66383701188457
+				xmax = 178.1918505942275
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [173]:
+				xmin = 178.1918505942275
+				xmax = 179.12563667232598
+				text = "silence"
+			intervals [174]:
+				xmin = 179.12563667232598
+				xmax = 180.12733446519525
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [175]:
+				xmin = 180.12733446519525
+				xmax = 180.36502546689306
+				text = "silence"
+			intervals [176]:
+				xmin = 180.36502546689306
+				xmax = 181.9439728353141
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [177]:
+				xmin = 181.9439728353141
+				xmax = 182.4702886247878
+				text = "silence"
+			intervals [178]:
+				xmin = 182.4702886247878
+				xmax = 184.06621392190155
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [179]:
+				xmin = 184.06621392190155
+				xmax = 184.62648556876061
+				text = "silence"
+			intervals [180]:
+				xmin = 184.62648556876061
+				xmax = 187.24108658743634
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [181]:
+				xmin = 187.24108658743634
+				xmax = 189.38030560271648
+				text = "silence"
+			intervals [182]:
+				xmin = 189.38030560271648
+				xmax = 192.0458404074703
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [183]:
+				xmin = 192.0458404074703
+				xmax = 192.57215619694398
+				text = "silence"
+			intervals [184]:
+				xmin = 192.57215619694398
+				xmax = 193.81154499151106
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [185]:
+				xmin = 193.81154499151106
+				xmax = 194.15110356536505
+				text = "silence"
+			intervals [186]:
+				xmin = 194.15110356536505
+				xmax = 196.61290322580646
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [187]:
+				xmin = 196.61290322580646
+				xmax = 197.02037351443124
+				text = "silence"
+			intervals [188]:
+				xmin = 197.02037351443124
+				xmax = 198.22580645161293
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [189]:
+				xmin = 198.22580645161293
+				xmax = 198.6842105263158
+				text = "silence"
+			intervals [190]:
+				xmin = 198.6842105263158
+				xmax = 201.12903225806454
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [191]:
+				xmin = 201.12903225806454
+				xmax = 201.3497453310696
+				text = "silence"
+			intervals [192]:
+				xmin = 201.3497453310696
+				xmax = 203.47198641765706
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [193]:
+				xmin = 203.47198641765706
+				xmax = 204.26994906621394
+				text = "silence"
+			intervals [194]:
+				xmin = 204.26994906621394
+				xmax = 205.93378607809848
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [195]:
+				xmin = 205.93378607809848
+				xmax = 206.49405772495757
+				text = "silence"
+			intervals [196]:
+				xmin = 206.49405772495757
+				xmax = 208.5144312393888
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [197]:
+				xmin = 208.5144312393888
+				xmax = 209.0237691001698
+				text = "silence"
+			intervals [198]:
+				xmin = 209.0237691001698
+				xmax = 211.16298811544993
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [199]:
+				xmin = 211.16298811544993
+				xmax = 211.5704584040747
+				text = "silence"
+			intervals [200]:
+				xmin = 211.5704584040747
+				xmax = 213.52292020373517
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [201]:
+				xmin = 213.52292020373517
+				xmax = 213.67572156196945
+				text = "silence"
+			intervals [202]:
+				xmin = 213.67572156196945
+				xmax = 214.59252971137522
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [203]:
+				xmin = 214.59252971137522
+				xmax = 215.3735144312394
+				text = "silence"
+			intervals [204]:
+				xmin = 215.3735144312394
+				xmax = 220.89134125636673
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [205]:
+				xmin = 220.89134125636673
+				xmax = 220.97623089983023
+				text = "silence"
+			intervals [206]:
+				xmin = 220.97623089983023
+				xmax = 222.99660441426147
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [207]:
+				xmin = 222.99660441426147
+				xmax = 223.72665534804756
+				text = "silence"
+			intervals [208]:
+				xmin = 223.72665534804756
+				xmax = 225.4923599320883
+				text = "Matiyo_1_text_SPEAKER_01"
+			intervals [209]:
+				xmin = 225.4923599320883
+				xmax = 225.7979626485569
+				text = "silence"
+			intervals [210]:
+				xmin = 225.7979626485569
+				xmax = 228.6672325976231
+				text = "Matiyo_1_text_SPEAKER_01"
+			intervals [211]:
+				xmin = 228.6672325976231
+				xmax = 229.2275042444822
+				text = "silence"
+			intervals [212]:
+				xmin = 229.2275042444822
+				xmax = 233.79456706281834
+				text = "Matiyo_1_text_SPEAKER_01"
+			intervals [213]:
+				xmin = 233.79456706281834
+				xmax = 234.57555178268254
+				text = "silence"
+			intervals [214]:
+				xmin = 234.57555178268254
+				xmax = 236.68081494057728
+				text = "Matiyo_1_text_SPEAKER_01"
+			intervals [215]:
+				xmin = 236.68081494057728
+				xmax = 236.88455008488967
+				text = "silence"
+			intervals [216]:
+				xmin = 236.88455008488967
+				xmax = 238.3786078098472
+				text = "Matiyo_1_text_SPEAKER_01"
+			intervals [217]:
+				xmin = 238.3786078098472
+				xmax = 238.8370118845501
+				text = "silence"
+			intervals [218]:
+				xmin = 238.8370118845501
+				xmax = 243.62478777589135
+				text = "Matiyo_1_text_SPEAKER_01"
+			intervals [219]:
+				xmin = 243.62478777589135
+				xmax = 244.26994906621394
+				text = "silence"
+			intervals [220]:
+				xmin = 244.26994906621394
+				xmax = 248.8709677419355
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [221]:
+				xmin = 248.8709677419355
+				xmax = 249.55008488964347
+				text = "silence"
+			intervals [222]:
+				xmin = 249.55008488964347
+				xmax = 251.40067911714772
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [223]:
+				xmin = 251.40067911714772
+				xmax = 251.7741935483871
+				text = "silence"
+			intervals [224]:
+				xmin = 251.7741935483871
+				xmax = 252.5212224108659
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [225]:
+				xmin = 252.5212224108659
+				xmax = 253.25127334465196
+				text = "silence"
+			intervals [226]:
+				xmin = 253.25127334465196
+				xmax = 257.1052631578948
+				text = "Matiyo_1_text_SPEAKER_00"
+			intervals [227]:
+				xmin = 257.1052631578948
+				xmax = 257.5636672325976
+				text = "silence"
+			intervals [228]:
+				xmin = 257.5636672325976
+				xmax = 259.39728353140913
+				text = "Matiyo_1_text_SPEAKER_00"
+			intervals [229]:
+				xmin = 259.39728353140913
+				xmax = 259.85568760611204
+				text = "silence"
+			intervals [230]:
+				xmin = 259.85568760611204
+				xmax = 262.38539898132433
+				text = "Matiyo_1_text_SPEAKER_00"
+			intervals [231]:
+				xmin = 262.38539898132433
+				xmax = 263.2682512733446
+				text = "silence"
+			intervals [232]:
+				xmin = 263.2682512733446
+				xmax = 265.15280135823434
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [233]:
+				xmin = 265.15280135823434
+				xmax = 265.66213921901533
+				text = "silence"
+			intervals [234]:
+				xmin = 265.66213921901533
+				xmax = 267.258064516129
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [235]:
+				xmin = 267.258064516129
+				xmax = 267.75042444821736
+				text = "silence"
+			intervals [236]:
+				xmin = 267.75042444821736
+				xmax = 271.11205432937186
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [237]:
+				xmin = 271.11205432937186
+				xmax = 271.2648556876061
+				text = "silence"
+			intervals [238]:
+				xmin = 271.2648556876061
+				xmax = 273.59083191850596
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [239]:
+				xmin = 273.59083191850596
+				xmax = 274.1171477079796
+				text = "silence"
+			intervals [240]:
+				xmin = 274.1171477079796
+				xmax = 275.64516129032256
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [241]:
+				xmin = 275.64516129032256
+				xmax = 276.4261460101868
+				text = "silence"
+			intervals [242]:
+				xmin = 276.4261460101868
+				xmax = 277.75042444821736
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [243]:
+				xmin = 277.75042444821736
+				xmax = 278.46349745331077
+				text = "silence"
+			intervals [244]:
+				xmin = 278.46349745331077
+				xmax = 281.87606112054334
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [245]:
+				xmin = 281.87606112054334
+				xmax = 282.19864176570456
+				text = "silence"
+			intervals [246]:
+				xmin = 282.19864176570456
+				xmax = 283.5398981324279
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [247]:
+				xmin = 283.5398981324279
+				xmax = 284.26994906621394
+				text = "silence"
+			intervals [248]:
+				xmin = 284.26994906621394
+				xmax = 285.5432937181664
+				text = "Matiyo_1_text_SPEAKER_02"
+			intervals [249]:
+				xmin = 285.5432937181664
+				xmax = 287.68
+				text = "silence"

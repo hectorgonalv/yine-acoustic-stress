@@ -1,0 +1,20 @@
+# Web Scraping & Data processing
+beautifulsoup4==4.12.2
+requests==2.31.0
+pandas==2.1.1
+numpy<2.0
+
+# Audio Processing & Diarization
+praat-parselmouth==0.4.3
+librosa==0.10.1
+pyannote.audio==3.1.1
+torch==2.5.1
+torchaudio==2.5.1
+huggingface-hub==0.21.4
+
+# TextGrid Parsing & Phonetics
+textgrid==1.5
+pynini==2.1.6  # Note: Requires Conda on WSL/Linux
+
+# Python-R Bridge
+rpy2==3.5.14
